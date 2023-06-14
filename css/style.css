@@ -1,0 +1,20 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif !important; 
+}
+.bground-yellow {
+    background-color: #FAD725 !important;
+}
+.color-text {
+    color: #727272 !important;
+}
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 3.5rem !important;
+}
+.social-media-management, .email, .seo {
+    box-shadow: 0px 17px 33px -14px rgba(2, 22, 5, 0.07);
+    width: 20rem;
+}
